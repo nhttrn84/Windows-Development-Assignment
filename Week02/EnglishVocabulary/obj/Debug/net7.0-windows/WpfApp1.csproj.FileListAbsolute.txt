@@ -1,0 +1,64 @@
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar01.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar02.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar03.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar04.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar05.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar06.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar07.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar08.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar09.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar10.jpg
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\QuizWindow.g.cs
+C:\Users\tdqua\source\repos\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\QuizWindow.baml
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar01.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar02.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar03.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar04.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar05.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar06.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar07.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar08.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar09.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\Images\avatar10.jpg
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\QuizWindow.g.cs
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\QuizWindow.baml
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\mms kho\Documents\code\WIndows\ConsoleApp1\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll

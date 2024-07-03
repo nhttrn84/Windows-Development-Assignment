@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWPF>true</UseWPF>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="images\back.png" />
+    <None Remove="images\delete.png" />
+    <None Remove="images\folder.jpg" />
+    <None Remove="images\folder.png" />
+    <None Remove="images\load.png" />
+    <None Remove="images\non_shuffle.png" />
+    <None Remove="images\pause.png" />
+    <None Remove="images\play.png" />
+    <None Remove="images\save.png" />
+    <None Remove="images\shuffle.png" />
+    <None Remove="images\shuffle_1.png" />
+    <None Remove="images\skip.png" />
+    <None Remove="images\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediaToolkit" Version="1.1.0.1" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\back.png" />
+    <Resource Include="images\delete.png" />
+    <Resource Include="images\folder.png" />
+    <Resource Include="images\load.png" />
+    <Resource Include="images\non_shuffle.png" />
+    <Resource Include="images\pause.png" />
+    <Resource Include="images\play.png" />
+    <Resource Include="images\save.png" />
+    <Resource Include="images\shuffle.png" />
+    <Resource Include="images\skip.png" />
+    <Resource Include="images\stop.png" />
+  </ItemGroup>
+</Project>
